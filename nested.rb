@@ -92,7 +92,7 @@ def adding_matz
     #
 #  }
 
-hash[key] = { dollar: 0 }
+#hash[key] = { dollar: 0 }
 
  programmer_hash[:yukihiro_matsumoto] = { :known_for => "Ruby", :languages => ["LISP","C"] }
 end
